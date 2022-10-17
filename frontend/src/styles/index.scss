@@ -1,0 +1,17 @@
+// If you comment out code below, bootstrap will use red as primary color
+// and btn-primary will become red
+
+// $primary: red;
+$base-font: "Nunito Sans", sans-serif;
+$secondary-color: #78a5a3;
+
+@import "~materialize-css/sass/materialize.scss";
+
+
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: $base-font !important;
+}
