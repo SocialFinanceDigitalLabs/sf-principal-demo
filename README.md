@@ -23,4 +23,4 @@ If you have docker setup on your computer, you can run the following steps to ge
    * `docker-compose up` - Will spin up a copy of LW-NG along with a postgres database (at http://127.0.0.1:8000) as long as that address isn't taken by another service.
 
 # DIY Instructions
-You might want to start this from scratch in a new empty directory - You can find the full tutorial <span style="color: red">here (link to mkdocs)</span>
+You might want to start this from scratch in a new empty directory - You can find the full tutorial [here](https://digi-docs-bot.herokuapp.com/full-stack/SF-Django-Setup/)
