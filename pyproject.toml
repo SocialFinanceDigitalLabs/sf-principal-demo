@@ -15,7 +15,7 @@ django-material = "^1.11.3"
 python-decouple = "^3.6"
 
 [tool.poetry.group.dev.dependencies]
-black = "^22.10.0"
+black = "^24.3.0"
 isort = "^5.10.1"
 flake8 = "^5.0.4"
 pre-commit = "^2.20.0"
