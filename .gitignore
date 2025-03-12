@@ -135,3 +135,7 @@ scripts/*.zip
 
 *.xlsx
 /static/CACHE/
+
+
+# Pycharm environment
+.idea/
