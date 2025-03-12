@@ -9,7 +9,7 @@ packages = [{include = "sf_django_template"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-Django = "^4.1.13"
+Django = "^4.2.20"
 python-webpack-boilerplate = "^1.0.0"
 django-material = "^1.11.3"
 python-decouple = "^3.6"
